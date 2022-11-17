@@ -1,0 +1,11 @@
+{
+  "json_object": {
+    "admob_inter": "/21753324030,22807993756/com.innovateinfosoft.statusdownloader_Interstitial",
+    "admob_native": "/21753324030,22807993756/com.innovateinfosoft.statusdownloader_Native",
+    "admob_appopen": "/21753324030,22807993756/com.innovateinfosoft.statusdownloader_AppOpen",
+     "admob_banner": "/21753324030,22807993756/com.innovateinfosoft.statusdownloader_Banner",
+    
+     "show_ads_counter": 3,
+     "show_ad_status": true
+  } 
+}
