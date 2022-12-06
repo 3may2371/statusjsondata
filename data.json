@@ -1,9 +1,9 @@
 {
   "json_object": {
-    "admob_inter": "/21952429235,22853517756/TTS_MARUTI_StatusDownloader_INTERSTITIAL",
-    "admob_native": "/21952429235,22853517756/TTS_MARUTI_StatusDownloader_NATIVE",
-    "admob_appopen": "/21952429235,22853517756/TTS_MARUTI_StatusDownloader_OPEN",
-     "admob_banner": "/21952429235,22853517756/TTS_MARUTI_StatusDownloader_BANNER",
+    "admob_inter": "/21952429235,22853517756/TTS_MarutiInfoSoftPrince_StatusDownloader_INTERSTITIAL",
+    "admob_native": "/21952429235,22853517756/TTS_MarutiInfoSoftPrince_StatusDownloader_NATIVE",
+    "admob_appopen": "/21952429235,22853517756/TTS_MarutiInfoSoftPrince_StatusDownloader_OPEN",
+     "admob_banner": "/21952429235,22853517756/TTS_MarutiInfoSoftPrince_StatusDownloader_BANNER",
      "inter_ads_counter":0,
     
      "show_ads_counter": 2,
