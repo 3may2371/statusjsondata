@@ -4,6 +4,7 @@
     "admob_native": "/21753324030,22807993756/com.innovateinfosoft.statusdownloader_Native",
     "admob_appopen": "/21753324030,22807993756/com.innovateinfosoft.statusdownloader_AppOpen",
      "admob_banner": "/21753324030,22807993756/com.innovateinfosoft.statusdownloader_Banner",
+    "native_ads_flag":15
      "inter_ads_counter":0,
     
      "show_ads_counter": 3,
