@@ -1,7 +1,7 @@
 {
   "json_object": {
     "admob_inter": "/21753324030,22807993756/com.innovateinfosoft.statusdownloader_Interstitial",
-    "admob_native": "/21952429235,22853517756/TTS_MarutiInfoSoftPrince_StatusDownloader_NATIVE",
+    "admob_native": "/21753324030,22807993756/com.innovateinfosoft.statusdownloader_Native",
     "admob_appopen": "/21753324030,22807993756/com.innovateinfosoft.statusdownloader_AppOpen",
      "admob_banner": "/21753324030,22807993756/com.innovateinfosoft.statusdownloader_Banner",
      "inter_ads_counter":0,
