@@ -1,9 +1,9 @@
 {
   "json_object": {
-    "admob_inter": "ca-app-pub-1169008949929303/8641082122",
-    "admob_native": "ca-app-pub-1169008949929303/2075673779",
-    "admob_appopen": "ca-app-pub-1169008949929303/4510265425",
-     "admob_banner": "ca-app-pub-1169008949929303/2458817156",
+    "admob_inter": "/22919310582/com.innovateinfosoft.statusdownloader_Interstitial",
+    "admob_native": "/22919310582/com.innovateinfosoft.statusdownloader_Native",
+    "admob_appopen": "/22919310582/com.innovateinfosoft.statusdownloader_AppOpen",
+     "admob_banner": "/22919310582/com.innovateinfosoft.statusdownloader_Banner",
     "native_ads_flag":27,
      "inter_ads_counter":0,
     
